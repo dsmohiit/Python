@@ -1,2 +1,2 @@
 # Python
-This repository contains daily progress of my python learnings
+This repository contains daily progress and learnings of Python.
